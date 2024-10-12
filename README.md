@@ -3,7 +3,7 @@ Documentation, slides, and demo sites for the talk 'Make Your Documentation Inte
 
 ## Recordings
 
-A 30-minute version of this talk was presented at PyCon US 2024 in Pittsburgh. The recording will be linked here when it is available.
+A 30-minute version of this talk was presented at PyCon US 2024 in Pittsburgh. The recording is [available on YouTube](https://www.youtube.com/watch?v=TZ0JuRLL0IA).
 
 This talk was presented in a pre-recorded format for PyOhio 2023. The recording is [available on YouTube](https://www.youtube.com/watch?v=ysSewLZEqnM).
 
